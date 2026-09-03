@@ -1,1 +1,7 @@
-
+{
+    "status": "online",
+    "valid_keys": [
+        "TXS-22",
+        "REA-232"
+    ]
+}
