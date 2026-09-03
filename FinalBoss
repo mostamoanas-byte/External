@@ -1,13 +1,4 @@
 {
-    "status": "online",
-    "valid_keys": [
-        {
-            "key": "TXS-22",
-            "hwid": "4C4C4544-0034-4C10-8032-B2C04F523532"
-        },
-        {
-            "key": "REA-232",
-            "hwid": "03560230-040F-0594-7B06-5F0700080009"
-        }
-    ]
+  "status": "online",
+  "msg": "Working normally"
 }
